@@ -1,6 +1,7 @@
 [
-  {"id": 1,"nome":"Arthur", "idade": 6},
-  {"id": 2, "nome": "Alexandre","idade": 34},
-  {"id": 3, "nome": "Georgia","idade": 43},
-  {"id": 4, "nome": "Luiz","idade": 33},
+{"id":1,"nome":"Artur","idade":6},
+{"id":2,"nome":"Alex" ,"idade":23},
+{"id":3,"nome":"Caio","idade":12},
+{"id":4,"nome":"Jose","idade":54}
+
 ]
